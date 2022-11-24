@@ -1,3 +1,2 @@
-#!/bin/bash
-ALX school
->>>>>>> origin/update_script
+#!/bin/bash 
+echo "ALX"
